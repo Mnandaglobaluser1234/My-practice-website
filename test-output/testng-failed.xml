@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="new_prr.my_rrr.First_pro">
+        <methods>
+          <include name="ultimateqa6"/>
+          <include name="ultimateqa4"/>
+          <include name="ultimateqa3"/>
+          <include name="ultimateqa2"/>
+          <include name="ultimateqa5"/>
+        </methods>
+      </class> <!-- new_prr.my_rrr.First_pro -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
